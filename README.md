@@ -12,19 +12,37 @@
 
 Sou um desenvolvedor Backend com experiência em linguagens de baixo e alto nível. Curioso por natureza, gosto de criar sistemas robustos, entender como tudo funciona por baixo dos panos e manter o código limpo e organizado.
 
+**Formação:**
+- Bacharel **|** Tecnologia da Informação **|** Universidade Federal do Rio Grande do Norte **|** Instituto Metrópole Digital
+
+**Estudando:**
+- C++
+- Como fazer uma Engine em C++
+- Arquitetura de computadores
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🔧 **BackEnd**
-- C, C++, Java, JavaScript
+- <div>
+  <img align="center" alt="Soares - C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Soares - C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Soares - Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Soares - Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+</div>
 
 ### 🎨 **FrontEnd**
-- HTML, CSS
+- <div>
+  <img align="center" alt="Soares - HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Soares - CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+</div>
 
 ### ⚙️ **Ferramentas**
-- Docker  
-- Git & GitHub Actions  
+- </div>
+  <img align="center" alt="Soares - HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Soares - CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg">
+</div>
 
 ### 🧠 **Outros**
 - Visual Studio Code  
@@ -52,4 +70,4 @@ Sou um desenvolvedor Backend com experiência em linguagens de baixo e alto nív
 
 ---
 
-🖤 _"Código limpo é como poesia bem escrita."_  
+🖤 _"Nossa maior fraqueza é desistir. O caminho mais certo para o sucesso é sempre tentar apenas uma vez mais - Thomas A. Edison"_  
