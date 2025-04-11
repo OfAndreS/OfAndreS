@@ -53,11 +53,11 @@ Sou um desenvolvedor Backend com experiência em linguagens de baixo e alto nív
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/OfAndreS/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OfAndreS" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 </a>
-<a href="https://github.com/OfAndreS/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OfAndreS&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ---
