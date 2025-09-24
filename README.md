@@ -20,10 +20,6 @@
 |-|
 | Estudante de Tecnologia da Informação na Universidade Federal do Rio Grande do Norte (UFRN), Brasil. Atuo como bolsista de iniciação científica, focado na otimização de redes neurais. Sou apaixonado por programação e pela busca de soluções inovadoras para desafios complexos, combinando o rigor computacional com uma profunda compreensão dos vieses cognitivos e do comportamento humano, minha outra grande paixão que exploro através da psicologia. |
 
-|**Frase**|
-|-|
-|   🖤 _"Nossa maior fraqueza é desistir. O caminho mais certo para o sucesso é sempre tentar apenas uma vez mais."_     _———— Thomas A. Edison_|
-
 <br>
 
 ---
