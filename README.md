@@ -1,12 +1,4 @@
-<h1 align="center">Olá! Me chamo André Soares</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-C%20%7C%20C++%20%7C%20Java%20%7C%20JavaScript-0A0A0A?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ferramentas-Docker%20%7C%20Git%20%7C%20GitHub%20Actions-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
 
 <img width="2032" height="496" alt="AndreSoares" src="https://github.com/user-attachments/assets/9b04d8fc-0828-4756-bc82-4d6d99bad27d" />
 
@@ -17,6 +9,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-C%20%7C%20C++%20%7C%20Java%20%7C%20JavaScript-0A0A0A?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ferramentas-Docker%20%7C%20Git%20%7C%20GitHub%20Actions-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
 
 ---
 
