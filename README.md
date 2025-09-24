@@ -4,19 +4,25 @@
 
 ---
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
+
 ---
 
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-C%20%7C%20C++%20%7C%20JAVA%20%7C%20Python%20%7C%20SQL-0A0A0A?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ferramentas-Git%20%7C%20MatplotLib%20%7C%20Pandas%20%7C%20Tensorflow-2496ED?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-C%20%7C%20C++%20%7C%20JAVA%20%7C%20Python%20%7C%20SQL-28A745?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ferramentas-Git%20%7C%20MatplotLib%20%7C%20Pandas%20%7C%20Tensorflow-28A745?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livros-Design%20Patterns%20%7C%20Clean%20Code-28A745?style=for-the-badge&logo=codereview&logoColor=white" />
 </p>
 
+<br>
 
 ---
 
