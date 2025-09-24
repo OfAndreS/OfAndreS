@@ -8,6 +8,14 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 👨‍💻 Sobre mim
 
 Sou um desenvolvedor Backend com experiência em linguagens de baixo e alto nível. Curioso por natureza, gosto de criar sistemas robustos, entender como tudo funciona por baixo dos panos e manter o código limpo e organizado.
