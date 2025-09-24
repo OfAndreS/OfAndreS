@@ -2,8 +2,6 @@
 
 <img width="2032" height="496" alt="AndreSoares" src="https://github.com/user-attachments/assets/9b04d8fc-0828-4756-bc82-4d6d99bad27d" />
 
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OfAndreS/OfAndreS/output/github-contribution-grid-snake.svg">
