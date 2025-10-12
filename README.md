@@ -22,6 +22,12 @@
 
 <br>
 
+|**About Me**|
+|-|
+| Information Technology student at the Federal University of Rio Grande do Norte (UFRN), Brazil. I currently work as a scientific initiation scholar, focused on the optimization of neural networks. I am passionate about programming and the search for innovative solutions to complex challenges, combining computational rigor with a deep understanding of cognitive biases and human behavior, my other great passion which I explore through psychology. |
+
+<br>
+
 ---
 
 <p align="center">
